@@ -1,0 +1,12 @@
+{
+  "name": "folkhack",
+  "description": "seeing if something fun works, for folksake. ",
+  "image": "https://content.wrappr.wtf/ipfs/QmdGPt9JWGL3ihALLUYW11eHWpHvn2HsJ6TNyTDMgvtEgF",
+  "agreement": "https://content.wrappr.wtf/ipfs/QmaEyvuHZD16X9paKcNck5gx8F1ekCesa7TL7VT3keVgUj",
+  "attributes": [
+    {
+      "trait_type": "application",
+      "value": "nodejs"
+    }
+  ]
+}
